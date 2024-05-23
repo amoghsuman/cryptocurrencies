@@ -1,10 +1,9 @@
 Abstract
 
-What predicts returns on assets with "hard-to-value" fundamentals, 
-  such as Bitcoin and stocks in new industries? 
+  Assets with "hard-to-value" fundamentals, such as Bitcoin and stocks in new industries --> difficult to predict returns 
   An equilibrium model shows how rational learning enables return predictability through technical analysis. 
   Ratios of prices to their moving averages forecast daily Bitcoin returns. 
-  Trading strategies based on these ratios generate an economically significant alpha and Sharpe ratio gains relative to a buy-and-hold position. 
+  Trading strategies based on these ratios generate significant alpha and Sharpe ratio gains relative to a buy-and-hold position. 
   Similar results hold for small-cap, young-firm, and low-analyst-coverage stocks as well as NASDAQ stocks during the dotcom era.
 
 Trading rules
