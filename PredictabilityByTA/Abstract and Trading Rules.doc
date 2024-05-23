@@ -1,0 +1,18 @@
+Abstract
+
+What predicts returns on assets with "hard-to-value" fundamentals, 
+  such as Bitcoin and stocks in new industries? 
+  An equilibrium model shows how rational learning enables return predictability through technical analysis. 
+  Ratios of prices to their moving averages forecast daily Bitcoin returns. 
+  Trading strategies based on these ratios generate an economically significant alpha and Sharpe ratio gains relative to a buy-and-hold position. 
+  Similar results hold for small-cap, young-firm, and low-analyst-coverage stocks as well as NASDAQ stocks during the dotcom era.
+
+Trading rules
+
+  -- Target asset for investment: Exclusively Bitcoin.
+  -- Obtain daily Bitcoin price data from: Coindesk.com.
+  -- Determine the 10-day moving average on day t: Average of the prices from the last 10 days (not counting day t).
+  -- Purchase indicator: Buy Bitcoin when the ratio of (price on day t-1) to (10-day moving average) exceeds 1.
+  -- Sale indicator: Liquidate Bitcoin and move to a risk-free asset when the ratio of (price on day t-1) to (10-day moving average) is less than 1.
+  -- Adjust positions daily.
+  -- Only trade actively with 10% of the total portfolio.
